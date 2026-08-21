@@ -13,3 +13,20 @@ Cybersecurity Student • SOC & Blue Team • Security Research
   <a href="https://tryhackme.com/p/maralbektilek">TryHackMe</a> •
   <a href="maralbektilek@gmail.com">Email</a>
 </p>
+┌──(maralbyek㉿kali)-[~/cybersecurity]
+└─$ whoami
+
+Cybersecurity student focused on
+SOC • Blue Team • Network Security
+
+┌──(maralbyek㉿kali)-[~/skills]
+└─$ cat skills.txt
+
+Linux
+Python
+Nmap
+Wireshark
+Splunk
+Burp Suite
+SQL
+Git
