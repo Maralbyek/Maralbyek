@@ -81,7 +81,7 @@ I build detection tools, investigate logs in Splunk, and break (then explain) we
 
 **Databases**
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,xampp" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
 </div>
 
