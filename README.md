@@ -9,7 +9,7 @@ Cybersecurity Student • SOC & Blue Team • Security Research
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="YOUR_TRYHACKME">TryHackMe</a> •
-  <a href="YOUR_EMAIL">Email</a>
+  <a href="https://www.linkedin.com/in/maralbyek-tilyek-6b2963359/">LinkedIn</a> •
+  <a href="https://tryhackme.com/p/maralbektilek">TryHackMe</a> •
+  <a href="maralbektilek@gmail.com">Email</a>
 </p>
