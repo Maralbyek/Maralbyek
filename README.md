@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Maralbyek 👋</h1>
 
-<!--
-**Maralbyek/Maralbyek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Cybersecurity Student • SOC & Blue Team • Security Research
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building practical cybersecurity projects and learning by breaking things.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="YOUR_LINKEDIN">LinkedIn</a> •
+  <a href="YOUR_TRYHACKME">TryHackMe</a> •
+  <a href="YOUR_EMAIL">Email</a>
+</p>
