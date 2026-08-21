@@ -64,7 +64,7 @@ I build detection tools, investigate logs in Splunk, and break (then explain) we
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=python,c,java,js,ts,,html,css" />
+<img src="https://skillicons.dev/icons?i=python,c,java,js,html,css" />
 
 **Security Tools**
 <br>
@@ -72,6 +72,7 @@ I build detection tools, investigate logs in Splunk, and break (then explain) we
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 
 **Operating Systems & Platforms**
 <br>
