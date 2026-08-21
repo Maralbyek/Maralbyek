@@ -64,7 +64,7 @@ I build detection tools, investigate logs in Splunk, and break (then explain) we
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,bash" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,shell,html,css,sql,spl" />
 
 **Security Tools**
 <br>
