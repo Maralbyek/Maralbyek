@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=whoami;Maralbyek Tilyek+-+Cybersecurity+Student+ML practitioner;SOC+%2F+Blue+Team+%2F+Network+Security;%24+building+practical+security+projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=whoami;Maralbyek Tilyek++Cybersecurity+Student+ML practitioner;SOC+%2F+Blue+Team+%2F+Network+Security;%24+building+practical+security+projects" alt="Typing SVG" />
 
 </div>
 
