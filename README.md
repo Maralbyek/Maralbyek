@@ -5,11 +5,11 @@
 </div>
 
 <h1 align="center">Maralbyek Tilyek</h1>
-<h3 align="center">Cybersecurity Student · SOC / Blue Team · Network &amp; Web Security</h3>
+<h3 align="center">Cybersecurity ~ Machine Learning student & practitioner &amp; Web Security</h3>
 
 <p align="center">
 Computer Science / Cybersecurity student focused on practical, hands-on security work over certificate collecting.<br>
-I build detection tools, investigate logs in Splunk, and break (then explain) web applications in controlled labs.
+I build detection tools, investigate logs in Splunk, and break (then explain) web applications in controlled labs and train ML models for prediction.
 </p>
 
 <p align="center">
