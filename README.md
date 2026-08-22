@@ -180,7 +180,7 @@ Full-stack application to check Malaysian food items for allergens — React/Typ
 [x] Web security fundamentals — SQLi, XSS (PortSwigger Labs)
 [x] Applied cryptography — AES file encryption
 [x] SOC log investigation — Splunk, Windows Event Logs
-[ ] Security certifications                 [REPLACE WITH YOUR INFORMATION]
+[x] Security certifications                 []
 [ ] Deeper detection engineering / SIEM rule authoring
 [ ] Cloud security fundamentals
 [ ] CTF participation
