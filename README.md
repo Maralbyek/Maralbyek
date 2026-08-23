@@ -127,7 +127,7 @@ Educational multi-threaded TCP port scanner built with Python, featuring service
 <tr>
 <td width="50%">
 
-### 🕸️ [Web Security / PortSwigger Labs](https://github.com/Maralbyek/web-security-portswigger-labs)
+### 🕸️ [Web Security / PortSwigger Labs](https://github.com/Maralbyek/BurpSuite-usage-)
 Practical web application security labs covering SQL injection and XSS, solved using Burp Suite.
 <br>`Burp Suite` `SQLi` `XSS`
 
