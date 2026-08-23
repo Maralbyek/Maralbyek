@@ -146,20 +146,10 @@ Full-stack application to check Malaysian food items for allergens — React/Typ
 
 ## `~$` GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=Maralbyek&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Maralbyek&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=Maralbyek&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maralbyek&theme=react-dark&hide_border=true" alt="Activity Graph" width="90%"/>
-
-</div>
+<div align="center"> <img src="https://github-stats-extended.vercel.app/api?username=Maralbyek&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/> 
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Maralbyek&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/> <br> 
+  <img src="https://streak-stats.demolab.com/?user=Maralbyek&theme=radical&hide_border=true" alt="GitHub Streak" /> <br> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maralbyek&theme=react-dark&hide_border=true&from=2025-08-23&to=2026-08-23" alt="Activity Graph" width="90%"/> </div> <br>
 
 <br>
 
