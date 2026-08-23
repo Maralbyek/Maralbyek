@@ -134,7 +134,7 @@ Practical web application security labs covering SQL injection and XSS, solved u
 </td>
 <td width="50%">
 
-### 🍜 [Malaysian Food Allergen Checker](https://github.com/Maralbyek/malaysian-food-allergen-checker)
+### 🍜 [Malaysian Food Allergen Checker](https://github.com/Maralbyek/Malaysian-allergen-checker-platform)
 Full-stack application to check Malaysian food items for allergens — React/TypeScript frontend with a Python backend and database.
 <br>`React` `TypeScript` `Python`
 
