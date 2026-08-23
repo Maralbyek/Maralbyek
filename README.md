@@ -95,7 +95,7 @@ I build detection tools, investigate logs in Splunk, and break (then explain) we
 <td width="50%">
 
 ### 🛡️ [SIEM](https://github.com/Maralbyek/SIEM-Splunk)
-Labs and other small projects that helps to understand.. TO BE CONTINUED
+Basic SIEM project using Splunk to analyse security logs, create simple detections, and document security findings using SPL.
 <br>`Splunk` `Windows Event Logs` `SOC`
 
 </td>
@@ -103,7 +103,7 @@ Labs and other small projects that helps to understand.. TO BE CONTINUED
 
 ### 🐟 [Employee Attrition Prediction and Workforce Clustering(ML)](https://github.com/Maralbyek/Employee-Attrition-Prediction-and-Workforce-Clustering)
 
-Machine learning model that analyzes whether employees will leave or not based on their performance and other factors that leads to accurate prediction. TO BE EXPLAINED FURTHERMORE
+Machine Learning project for predicting employee attrition and identifying workforce patterns using supervised learning, clustering, and SHAP-based feature analysis with Python and Scikit-learn.
 <br>`Python` `Machine Learning`
 
 </td>
@@ -112,14 +112,14 @@ Machine learning model that analyzes whether employees will leave or not based o
 <td width="50%">
 
 ### 🔎 [Mushroom Edibility Prediction](https://github.com/Maralbyek/Mushroom-edibility-prediction)
-Custom port scanner built from scratch in Python (not a wrapper around Nmap) — scans ports, detects services/versions, and performs CVE-related lookups.
+Machine Learning project for classifying mushrooms as edible or poisonous using morphological characteristics, with data preprocessing, exploratory analysis, and supervised classification models in Python.
 <br>`Python` `Networking` `CVE Lookup`
 
 </td>
 <td width="50%">
 
 ### 🔐 [Port Scanner](https://github.com/Maralbyek/port_scanner)
-File encryption/decryption tool built around AES cryptography.
+Educational multi-threaded TCP port scanner built with Python, featuring service detection, banner grabbing, custom port ranges, result export, and a minimal Flask web interface for IP-based scanning.
 <br>`Python` `Cryptography`
 
 </td>
@@ -127,14 +127,14 @@ File encryption/decryption tool built around AES cryptography.
 <tr>
 <td width="50%">
 
-### 🕸️ [Web Security / PortSwigger Labs](https://github.com/YOUR_GITHUB_USERNAME/web-security-portswigger-labs)
+### 🕸️ [Web Security / PortSwigger Labs](https://github.com/Maralbyek/web-security-portswigger-labs)
 Practical web application security labs covering SQL injection and XSS, solved using Burp Suite.
 <br>`Burp Suite` `SQLi` `XSS`
 
 </td>
 <td width="50%">
 
-### 🍜 [Malaysian Food Allergen Checker](https://github.com/YOUR_GITHUB_USERNAME/malaysian-food-allergen-checker)
+### 🍜 [Malaysian Food Allergen Checker](https://github.com/Maralbyek/malaysian-food-allergen-checker)
 Full-stack application to check Malaysian food items for allergens — React/TypeScript frontend with a Python backend and database.
 <br>`React` `TypeScript` `Python`
 
