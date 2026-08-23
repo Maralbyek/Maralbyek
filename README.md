@@ -94,15 +94,16 @@ I build detection tools, investigate logs in Splunk, and break (then explain) we
 <tr>
 <td width="50%">
 
-### 🛡️ [SOC / Splunk Security Investigation](https://github.com/YOUR_GITHUB_USERNAME/soc-splunk-investigation)
-Investigated failed logons, account lockouts, PowerShell activity, and process creation events in Splunk Enterprise using Windows security log datasets. Produced visual findings and a written investigation report.
+### 🛡️ [SIEM](https://github.com/Maralbyek/SIEM-Splunk)
+Labs and other small projects that helps to understand.. TO BE CONTINUED
 <br>`Splunk` `Windows Event Logs` `SOC`
 
 </td>
 <td width="50%">
 
-### 🐟 [Phishing Email Detection (ML)](https://github.com/YOUR_GITHUB_USERNAME/phishing-email-detection-ml)
-Machine learning model that analyzes email content and predicts whether a message is phishing.
+### 🐟 [Employee Attrition Prediction and Workforce Clustering(ML)](https://github.com/Maralbyek/Employee-Attrition-Prediction-and-Workforce-Clustering
+)
+Machine learning model that analyzes whether employees will leave or not based on their performance and other factors that leads to accurate prediction. TO BE EXPLAINED FURTHERMORE
 <br>`Python` `Machine Learning`
 
 </td>
@@ -110,14 +111,14 @@ Machine learning model that analyzes email content and predicts whether a messag
 <tr>
 <td width="50%">
 
-### 🔎 [Python Network Port Scanner](https://github.com/YOUR_GITHUB_USERNAME/python-network-port-scanner)
+### 🔎 [Mushroom Edibility Prediction](https://github.com/Maralbyek/Mushroom-edibility-prediction)
 Custom port scanner built from scratch in Python (not a wrapper around Nmap) — scans ports, detects services/versions, and performs CVE-related lookups.
 <br>`Python` `Networking` `CVE Lookup`
 
 </td>
 <td width="50%">
 
-### 🔐 [AES File Encryption Tool](https://github.com/YOUR_GITHUB_USERNAME/aes-file-encryption-tool)
+### 🔐 [Port Scanner](https://github.com/Maralbyek/port_scanner)
 File encryption/decryption tool built around AES cryptography.
 <br>`Python` `Cryptography`
 
