@@ -101,8 +101,8 @@ Labs and other small projects that helps to understand.. TO BE CONTINUED
 </td>
 <td width="50%">
 
-### 🐟 [Employee Attrition Prediction and Workforce Clustering(ML)](https://github.com/Maralbyek/Employee-Attrition-Prediction-and-Workforce-Clustering
-)
+### 🐟 [Employee Attrition Prediction and Workforce Clustering(ML)](https://github.com/Maralbyek/Employee-Attrition-Prediction-and-Workforce-Clustering)
+
 Machine learning model that analyzes whether employees will leave or not based on their performance and other factors that leads to accurate prediction. TO BE EXPLAINED FURTHERMORE
 <br>`Python` `Machine Learning`
 
