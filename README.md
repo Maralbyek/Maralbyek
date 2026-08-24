@@ -27,6 +27,7 @@ I build detection tools, investigate logs in Splunk, and break (then explain) we
 [+] Writing up SOC investigation reports from Splunk log analysis
 [+] Working through additional PortSwigger Web Security Academy labs
 [+] Sharpening blue-team detection skills through TryHackMe rooms
+[+] Widening BURPSUITE projects which WEB LLM Attacks are already in progress
 ```
 
 <br>
