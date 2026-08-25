@@ -146,13 +146,20 @@ Full-stack application to check Malaysian food items for allergens — React/Typ
 <br>
 
 ## `~$` GitHub Statistics
+<div align="center">
 
-<div align="center"> 
-  <img src="https://github-stats-extended.vercel.app/api?username=Maralbyek&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/> 
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Maralbyek&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/> <br>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Maralbyek&theme=radical&hide_border=true" alt="GitHub Streak" /> <br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maralbyek&theme=react-dark&hide_border=true&days=15" alt="Activity Graph" width="90%"/> </div> <br>
+<img src="https://github-stats-extended.vercel.app/api?username=Maralbyek&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Maralbyek&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 
 <br>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Maralbyek&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maralbyek&theme=react-dark&hide_border=true&days=15" alt="Activity Graph" width="90%"/>
+
+</div>
 
 ## `~$` 3D Contribution Graph
 
