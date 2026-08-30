@@ -78,7 +78,8 @@ I build detection tools, investigate logs in Splunk, and break (then explain) we
 
 **Operating Systems & Platforms**
 <br>
-<img src="https://skillicons.dev/icons?i=linux,git" />
+<img src="https://skillicons.dev/icons?i=windows" />
+<img src="https://skillicons.dev/icons?i=github" />
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
 
 **Databases**
