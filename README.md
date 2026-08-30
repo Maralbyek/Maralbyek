@@ -69,7 +69,8 @@ I build detection tools, investigate logs in Splunk, and break (then explain) we
 
 **Security Tools**
 <br>
-<img src="https://skillicons.dev/icons?i=kali,wireshark" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF41" />
@@ -113,10 +114,8 @@ Machine Learning project for predicting employee attrition and identifying workf
 <tr>
 <td width="50%">
 
-### 🔎 [Mushroom Edibility Prediction](https://github.com/Maralbyek/Mushroom-edibility-prediction)
-Machine Learning project for classifying mushrooms as edible or poisonous using morphological characteristics, with data preprocessing, exploratory analysis, and supervised classification models in Python.
-<br>`Python` `Networking` `CVE Lookup`
-
+### 🔎 [AES 256 GCM File Encryption tool](https://github.com/Maralbyek/AES-256-GCM-File-Encryption)
+Secure local file encryption and decryption tool using AES-256-GCM authenticated encryption, password-based key derivation with PBKDF2-HMAC-SHA256, and a graphical interface for protecting files against unauthorized access and tampering. <br>`Python` `Cryptography` `AES-256-GCM` `PBKDF2` `HTML/CSS/JavaScript`
 </td>
 <td width="50%">
 
