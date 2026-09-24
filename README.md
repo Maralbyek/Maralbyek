@@ -103,10 +103,10 @@ Basic SIEM project using Splunk to analyse security logs, create simple detectio
 </td>
 <td width="50%">
 
-### 🐟 [Employee Attrition Prediction and Workforce Clustering(ML)](https://github.com/Maralbyek/Employee-Attrition-Prediction-and-Workforce-Clustering)
+### ⚙️⚠️ [Local device dashboard (SOC dashboard)](https://github.com/Maralbyek/Sentinel)
 
-Machine Learning project for predicting employee attrition and identifying workforce patterns using supervised learning, clustering, and SHAP-based feature analysis with Python and Scikit-learn.
-<br>`Python` `Machine Learning`
+Windows dashboard that works on local device by retrieving information and data from device and making summarization and quick look for user
+<br>`Python` `SOC` `Dashboard` `Windows Security`
 
 </td>
 </tr>
