@@ -103,7 +103,7 @@ Basic SIEM project using Splunk to analyse security logs, create simple detectio
 </td>
 <td width="50%">
 
-### ⚙️⚠️ [Local device dashboard (SOC dashboard)](https://github.com/Maralbyek/Sentinel)
+### ⚙️⚠️ [SENTINEL](https://github.com/Maralbyek/Sentinel)
 
 Windows dashboard that works on local device by retrieving information and data from device and making summarization and quick look for user
 <br>`Python` `SOC` `Dashboard` `Windows Security`
